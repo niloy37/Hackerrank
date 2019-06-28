@@ -1,5 +1,5 @@
 //https://www.hackerrank.com/challenges/birthday-cake-candles/problem?utm_campaign=challenge-recommendation&utm_medium=email&utm_source=24-hour-campaign
-
+//solution to problem using java , run through cmd
 
 import java.io.*;
 import java.math.*;
