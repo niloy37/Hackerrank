@@ -42,3 +42,4 @@ public class Staircase {
         scanner.close();
     }
 }
+//hac
